@@ -3,10 +3,8 @@
 ### Free particle
 - Free Schrödinger equation
 - Propagation of quantum free particle in 1d
-- [] Superpositions
-- [] Fourier decomposition
-- [] Wave packets
-- [] Gaussian wave packets
+- Superpositions
+- Gaussian wave packets
 
 ### Particle in a box
 
