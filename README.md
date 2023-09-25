@@ -1,33 +1,33 @@
 # Quantum mechanics
 
-### Free particle
-- Free Schrödinger equation
-- Propagation of quantum free particle in 1d
-- Superpositions
-- Gaussian wave packets
+## Free particle
+- [x] Free Schrödinger equation
+- [x] Propagation of quantum free particle in 1d
+- [x] Superpositions
+- [x] Gaussian wave packets
 
-### Particle in a box
+## Particle in a box
 
-### Quantum harmonic oscillator
+## Quantum harmonic oscillator
 
-### Wave functions
+## Wave functions
 
-### Probability amplitudes
+## Probability amplitudes
 
-### Wave-particle duality
+## Wave-particle duality
 
-### Quantum tunnelling
+## Quantum tunnelling
 
-### Quantum entanglement
+## Quantum entanglement
 
-### Schrödinger equation
+## Schrödinger equation
 
-### Uncertainty principle
+## Uncertainty principle
 
-### Quantum operators and quantum states
+## Quantum operators and quantum states
 
-### Time evolution
+## Time evolution
 
-### Perturbation theory
+## Perturbation theory
 
 
