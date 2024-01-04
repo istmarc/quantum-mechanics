@@ -1,10 +1,7 @@
 # Quantum mechanics
 
 ## Free particle
-- [x] Free Schrödinger equation
-- [x] Propagation of quantum free particle in 1d
-- [x] Superpositions
-- [x] Gaussian wave packets
+- [Free particle: Free Schrödinger equation](free-particle/Free%20particle.ipynb)
 
 ## Particle in a box
 
